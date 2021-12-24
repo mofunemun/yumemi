@@ -1,11 +1,9 @@
 <template>
-    <h1></h1>
+    <h1>Title</h1>
 </template>
 <script>
 export default {
-    setup() {
-        
-    },
+
 }
 </script>
 <style lang="scss">
